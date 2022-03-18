@@ -92,6 +92,7 @@ body {
 }
 
 .conteudo-principal-escrito-botao:hover {
+    
     background-color: #818080;
     letter-spacing: 2px;
 }
