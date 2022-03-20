@@ -96,3 +96,10 @@ body {
     background-color: #818080;
     letter-spacing: 2px;
 }
+
+@media screen and (max-width: 400px) {
+    background-image {
+        height: fit-content;
+        width: fit-content;
+    }
+}
