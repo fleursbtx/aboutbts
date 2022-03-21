@@ -106,10 +106,6 @@ body {
         padding: 32px;
     }
 
-    header {
-        border-bottom: 0.4px solid #000000;
-    }
-
     .cabecalho {
         position: absolute;
         height: 26px;
@@ -128,6 +124,7 @@ body {
         color:rgb(0, 0, 0);
         font-weight: 400;
         font-size: 18px;
+        border-bottom: 0.4px solid #000000;
     }
 
     .conteudo {
