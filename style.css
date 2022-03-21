@@ -9,7 +9,9 @@
 
 body {
     background-image: url(fundoo.svg);
+    background-color: #EBEDF1;
     font-size: 100%;
+    background-repeat: no-repeat;
 }
 
 .cabecalho {
