@@ -115,6 +115,7 @@ body {
 
     .cabecalho-menu {
         display: flex;
+        margin-right: 0;
         justify-content: center;
         gap: 30px;
     }
