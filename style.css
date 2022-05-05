@@ -104,6 +104,10 @@ body {
     letter-spacing: 2px;
 }
 
+.teste {
+    display: none;
+}
+
 @media screen and (max-width: 500px) {
     
     body {
