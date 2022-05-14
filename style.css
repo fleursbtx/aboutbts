@@ -182,9 +182,8 @@ body {
         font-size: 18px;
     }
 
-    .teste {
-        position: absolute;
-        top: 1050px;
+    .conteudo-principal-escrito-botao {
+        margin-bottom: 1rem;
     }
 
     img {
