@@ -173,13 +173,6 @@ body {
         
         font-size: 14px;
         line-height: 20px;
-        text-align: center;
-    }
-    
-    .conteudo-principal-escrito-botao {
-        display: flex;
-        width: 128px;
-        font-size: 18px;
     }
 
     .conteudo-principal-escrito-botao {
