@@ -7,7 +7,6 @@
     text-decoration: none;
 }
 
-html,
 body {
     background-color: #EBEDF1;
     font-size: 100%;
@@ -121,24 +120,24 @@ body {
 
 @media screen and (max-width: 500px) {
     
+    
     body {
         background-image: url(fundo.svg);
         background-color: #EBEDF1;
-        width: 412px;
-        padding: 32px;
+        background-repeat: no-repeat;
+        margin: 0;
     }
 
     .cabecalho {
-        padding: 0;
         display: flex;
         justify-content: center;
-        width: 340px;
     }
 
     .cabecalho-menu {
         display: flex;
         justify-content: center;
         gap: 30px;
+        margin-right: 0;
     }
 
     .cabecalho-menu-item {
@@ -158,13 +157,12 @@ body {
     .conteudo-escrito {
         margin-top: 23rem;
         display: flex;
-        width: 346px;
+        margin-left: 0;
         border-top: none;
     }
 
     .conteudo-principal-escrito-titulo {
         display: flex;
-    
         font-size: 45px;
     }
     
@@ -187,7 +185,10 @@ body {
         position: absolute;
         top: 1050px;
     }
-    
+
+    img {
+        display:none;
+    } 
 }
 
 @media screen and (min-width: 1536px) {
