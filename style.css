@@ -126,6 +126,7 @@ body {
         background-color: #EBEDF1;
         background-repeat: no-repeat;
         margin: 0;
+        overflow: auto;
     }
 
     .cabecalho {
